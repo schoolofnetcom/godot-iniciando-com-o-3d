@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/barril.obj-914ea4aec35b6c026b0d780d6cf7d776.mesh"
+
+[deps]
+
+files=[ "res://.import/barril.obj-914ea4aec35b6c026b0d780d6cf7d776.mesh" ]
+
+source_file="res://Modelos/barril.obj"
+source_md5="58517058c9dc22e62e3b329c63a93b56"
+
+dest_files=[ "res://.import/barril.obj-914ea4aec35b6c026b0d780d6cf7d776.mesh", "res://.import/barril.obj-914ea4aec35b6c026b0d780d6cf7d776.mesh" ]
+dest_md5="a5e1d7653e1d2bbb3d9c14e88cb2ad41"
+
+[params]
+
+generate_tangents=true
